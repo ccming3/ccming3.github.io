@@ -10,6 +10,6 @@ redirect_from:
 {% include base_path %}
 
 
-Paste link to CV pdf here  
+[Link to PDF file](https://ccming3.github.io/files/Cheung_CV.pdf)
 
 
