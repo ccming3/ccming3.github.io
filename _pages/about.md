@@ -11,7 +11,7 @@ redirect_from:
 
 ### Biography
 
-I completed my thesis defense for my PhD in Computer Science at the University of Southern California in May 2021, under my advisor Professor Viktor Prasanna. My research focused on the application of machine learning to data analysis tasks in various fields, including Oilfields and Smart Distribution Grids.
+I am a PhD Candidate in the department of Computer Science, University of Southern California under the advisement of Professor Viktor Prasanna. My research is focused on the application of machine learning in domains such as smart oilfields and smart distribution power grids. I defended my PhD Dissertation on "Data-Driven Methods for Increasing Real-Time Observability in Smart Distribution Grids" in May 2021.
 
 
 ### Research Interest
