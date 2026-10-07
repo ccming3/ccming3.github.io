@@ -19,4 +19,4 @@ I completed my PhD in the department of Computer Science, University of Southern
 
 ### Education
 * PhD in Computer Science, University of Southern California, 2021
-* Bachelor of Engineering (Computer Science), University of Hong Kong, 2014
+* Bachelor of Engineering (Computer Engineering), University of Hong Kong, 2014
